@@ -1,4 +1,4 @@
-## Sistema de Or�amento | [Digital Innovation One](https://digitalinnovation.one/)
+## Sistema de Orçamento | [Digital Innovation One](https://digitalinnovation.one/)
 
 Implementation to CQRS architecture using Quarkus and Kafka.
 
@@ -14,12 +14,12 @@ Simulates a bank account scenario where an end user adds a income or expense tra
 
 ![Design](/images/design.png)
 
-## ? Index
-- ? [Technologies](#-technologies)
-- ? [How to run](#-how-to-run)
+## 📌 Index
+- 💻 [Technologies](#-technologies)
+- 🚀 [How to run](#-how-to-run)
 ---
 
-## ? Technologies
+## 💻 Technologies
     - Java
     - Apache Kafka (distributed platform of messaging and streaming. Broker: instances of kafka)
     - Apache ZooKeeper (manage all brokers in kafka)
@@ -31,7 +31,7 @@ Simulates a bank account scenario where an end user adds a income or expense tra
     - PostgreSQL
     - Amazon EKS (Amazon Elastic Kubernetes Service gives you the flexibility to start, run, and scale Kubernetes applications in the AWS cloud or on-premises)
 ---
-## ? How to run
+## 🚀 How to run
 
 > Cloning the repository
   ```bash
