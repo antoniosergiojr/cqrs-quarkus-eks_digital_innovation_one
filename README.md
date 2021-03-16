@@ -36,7 +36,7 @@ Simulates a bank account scenario where an end user adds a income or expense tra
 > Cloning the repository
   ```bash
     # Cloning repository
-    git clone https://github.com/antoniosergiojr/cqrs-quarkus-eks_digital_innovation_one.git
+    git clone https://github.com/antoniosergiojr/cqrs_quarkus_eks_digital_innovation_one.git
   ```
 
 ## Deploying the external services
